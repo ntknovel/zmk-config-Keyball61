@@ -54,8 +54,8 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
-  - '&mkp MB1'
-  - '&mkp MB2'
+  - $$mdi:pan-down$$
+  - $$mdi:pan-up$$
   - UDLR
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
