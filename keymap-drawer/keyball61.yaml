@@ -137,7 +137,7 @@ layers:
   - RGB SPI
   - RGB EFF
   - RGB TOG
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Ctl+Sft+Z
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -149,7 +149,7 @@ layers:
   - RGB SPI
   - RGB EFR
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Ctl+Z
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
