@@ -59,7 +59,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - SCROLL
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:backspace$$', h: SYM}
+  - {t: '$$mdi:backspace$$', h: SYMB}
   - VOL
   - PRINTSCREEN
   VOL:
@@ -124,7 +124,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
-  SYM:
+  SYMB:
   - {t: '$$mdi:transfer$$', type: trans}
   - '!'
   - '@'
